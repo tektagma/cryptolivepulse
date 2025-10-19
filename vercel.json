@@ -1,0 +1,8 @@
+{
+  "redirects": [
+    { "source": "/",       "destination": "https://cryptolivepulse.carrd.co",              "permanent": true },
+    { "source": "/live",   "destination": "https://youtube.com/@CryptoLivePulse/streams", "permanent": true },
+    { "source": "/youtube","destination": "https://youtube.com/@CryptoLivePulse",         "permanent": true },
+    { "source": "/x",      "destination": "https://x.com/CryptoLivePulse",                "permanent": true }
+  ]
+}
